@@ -1,0 +1,31 @@
+{
+  "dependencies": {
+    "axios": "^1.2.1",
+    "discord.js": "^14.7.1",
+    "dotenv": "^16.0.3"
+  },
+  "name": "sad-boi",
+  "description": "First discord bot so prepare for the chaos that is going to happen ...Made in JS and Node",
+  "version": "1.0.0",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/JamesAnunda/Sad-Boi.git"
+  },
+  "keywords": [
+    "first",
+    "discordbot",
+    "javascript",
+    "node"
+  ],
+  "author": "JamesAnunda",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/JamesAnunda/Sad-Boi/issues"
+  },
+  "homepage": "https://github.com/JamesAnunda/Sad-Boi#readme"
+}
